@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
- <title> CCS FILE COLOR BLINDNESS "True" <title>
+ <title> CSS FILE FOR COLOR BLINDNESS "True" <title>
  <style>
  body {
    colors: #2C4617, #FFD008, #05A5F7, #FF018B
